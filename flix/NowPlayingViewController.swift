@@ -12,13 +12,11 @@ import AlamofireImage
 class NowPlayingViewController: UIViewController, UITableViewDataSource{
 
     @IBOutlet weak var tableView: UITableView!
-
-    @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     
+    @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     
     var movies: [[String: Any]] = []
     var refreshControl: UIRefreshControl!
-    
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -28,6 +26,7 @@ class NowPlayingViewController: UIViewController, UITableViewDataSource{
         tableView.insertSubview(refreshControl, at: 0)
         
         tableView.dataSource = self
+        activityIndicator.startAnimating()
         fetchMovies()
         
     }
@@ -50,9 +49,8 @@ class NowPlayingViewController: UIViewController, UITableViewDataSource{
                 self.movies = movies
                 self.tableView.reloadData()
                 self.refreshControl.endRefreshing()
-                
-                
             }
+            self.activityIndicator.stopAnimating()
         }
         task.resume()
     }
@@ -70,7 +68,7 @@ class NowPlayingViewController: UIViewController, UITableViewDataSource{
         cell.overviewLabel.text = overview
         
         let posterPathString = movie["poster_path"] as! String
-        let baseURLString = "https://image.tmdb.org/t/p/original"
+        let baseURLString = "https://image.tmdb.org/t/p/w500"
         
         let posterURL = URL(string: baseURLString + posterPathString)!
         cell.posterImageView.af_setImage(withURL: posterURL)
