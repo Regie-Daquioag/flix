@@ -1,4 +1,4 @@
-list# Project 1 - Flix 
+list# Project 1 - *Flix*
 
 **Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
