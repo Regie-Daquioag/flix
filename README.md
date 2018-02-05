@@ -2,7 +2,7 @@ list# Project 1 - *Flix*
 
 **Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: 4.5 hours spent in total
+Time spent: 6 hours spent in total
 
 ## User Stories
 
@@ -25,7 +25,7 @@ The following **optional** user stories are implemented:
 The following **additional** user stories are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
-    One thing I could have done to improve the app functionailty would be to
+    One thing I could have done to improve the app functionailty would be to space out the content a little more and maybe to add the search bar if i had more time.
 
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
