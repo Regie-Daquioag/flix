@@ -31,10 +31,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough
 
 
-<a href="https://imgur.com/82dOelt"><img src="https://i.imgur.com/82dOelt.gif" title="source: imgur.com" /></a>  GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<a href="https://imgur.com/82dOelt"><img src="https://i.imgur.com/82dOelt.gif" title="source: imgur.com" /> </a>  GIF created with [LiceCap](http://www.cockos.com/licecap/).
  
 Here's a walkthrough of implemented user stories:
-
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
