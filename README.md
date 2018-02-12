@@ -8,8 +8,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can tap a cell to see a detail view (+5pts)
-- [ ] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
+- [x] User can tap a cell to see a detail view (+5pts)
+- [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
 
 The following **stretch** features are implemented:
 
@@ -34,8 +34,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 <a href="https://imgur.com/82dOelt"><img src="https://i.imgur.com/82dOelt.gif" title="source: imgur.com" /> </a>  GIF created with [LiceCap](http://www.cockos.com/licecap/).
  
 Here's a walkthrough of implemented user stories:
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![Video Walkthrough](flix2.gif)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
