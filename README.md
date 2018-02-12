@@ -17,8 +17,7 @@ The following **stretch** features are implemented:
 - [ ] In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer (+3pts)
 - [ ] Customize the navigation bar (+1pt)
 - [ ] List in any optionals you didn't finish from last week (+1-3pts)
-- ...
-- ...
+- I wanted to make the search bar but i did not have enough time
 
 The following **additional** features are implemented:
 
@@ -33,6 +32,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 
 <a href="https://imgur.com/82dOelt"><img src="https://i.imgur.com/82dOelt.gif" title="source: imgur.com" /></a>    GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+<a href="https://imgur.com/82dOelt"><img src="https://i.imgur.com/82dOelt.gif" title="source: imgur.com" /></a> 
 
 https://i.imgur.com/82dOelt.gifv
  
