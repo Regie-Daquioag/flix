@@ -34,6 +34,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 <a href="https://imgur.com/82dOelt"><img src="https://i.imgur.com/82dOelt.gif" title="source: imgur.com" /> </a>  GIF created with [LiceCap](http://www.cockos.com/licecap/).
  
 Here's a walkthrough of implemented user stories:
+
 ![Video Walkthrough](flix2.gif)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
