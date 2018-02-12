@@ -32,7 +32,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough
 
 
-<a href="https://i.imgur.com/82dOelt"><img src="https://i.imgur.com/82dOelt.gif" title="source: imgur.com" /></a>    GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<a href="https://i.imgur.com/82dOelt"><img src="https://i.imgur.com/82dOelt.gifv" title="source: imgur.com" /></a>    GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 https://i.imgur.com/82dOelt.gifv
 
@@ -49,7 +49,7 @@ I had some troubles on the collection view layout, I just need more time to unde
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2018] [Regie Daquioag]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
