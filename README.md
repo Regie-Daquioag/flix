@@ -154,6 +154,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
+<a href="https://imgur.com/FiFllZk"><img src="https://i.imgur.com/FiFllZk.gif" title="source: imgur.com" /></a>
+
 ![Video Walkthrough](flix3.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
@@ -161,6 +163,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+During this part of the app, I struggled with understanding the autolayouts becuase I wanted the box to be blue and not red but then I learned that having red lines was okay. I struggled the most with the overview of the movie when i would rotate it. 
 
 ## License
 
