@@ -154,7 +154,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgur.com/FiFllZk"><img src="https://i.imgur.com/FiFllZk.gif" title="source: imgur.com" /></a>
+![Video Walkthrough](flix3.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
